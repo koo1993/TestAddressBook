@@ -9,3 +9,4 @@ test/actual.txt
 LICENSE
 test/data/valid.filename
 bin/seedu/addressbook/AddressBook.class
+out/production/addressbook-level1-master/seedu/addressbook/AddressBook$PersonProperty.class
