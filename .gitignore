@@ -5,3 +5,7 @@ addressbook-level1-master.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+test/data/valid.filename
+test/actual.txt
+bin/seedu/addressbook/AddressBook.class
+LICENSE
